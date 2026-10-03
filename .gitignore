@@ -1,2 +1,22 @@
+# Dependencies
 node_modules/
+
+# Local app data
 tasks.json
+
+# Environment
+.env
+.env.*
+
+# Logs
+npm-debug.log*
+*.log
+
+# Claude Code
+.claude/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
